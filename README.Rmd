@@ -1,0 +1,19 @@
+---
+title: "README"
+author: "grad student"
+date: "7/13/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+## README
+
+File names: C00: codes, F00: functions with corresponding numbers.
+
+C01s: (An old simulation) to see how much value increases as sample size.
+C03s: (A new simulation) to see the distribution of V(d.hat), V.hat(d), and V.hat(d.hat).
+C04:  (A simulation) to see the bootstrap distribution (from simulation in C03).
+
